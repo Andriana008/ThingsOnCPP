@@ -1,0 +1,4 @@
+Apple
+50
+Cherry
+40

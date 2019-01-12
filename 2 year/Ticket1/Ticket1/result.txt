@@ -1,0 +1,10 @@
+milk 36
+cream 18
+chocolate 15
+milk 24
+cream 9
+chocolate 30
+max
+Espresso, Cream , Chocolate , Milk , Milk 58
+min
+HouseBlend, Cream , Milk 36

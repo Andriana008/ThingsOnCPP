@@ -1,0 +1,17 @@
+Department : Forum
+Products  of Forum:
+	Department : Clothes
+	Products  of Clothes:
+		Product : skirt,prize: 120,id:111111
+		Product : jumper,prize: 234,id:111112
+		Product : jeans,prize: 342,id:111113
+	Department : Food
+	Products  of Food:
+		Product : milk,prize: 12,id:123445
+		Product : cheese,prize: 23,id:123466
+		Product : sausage,prize: 35,id:234566
+		Product : bread,prize: 12,id:456111
+	Department : Electronics
+	Products  of Electronics:
+		Product : phone,prize: 2000,id:122222
+		Product : tablet,prize: 350,id:123999

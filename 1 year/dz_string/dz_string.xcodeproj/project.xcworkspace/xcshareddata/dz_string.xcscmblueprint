@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B88930C14139053C12C71FC3BBCCAE90E0D4FCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6B88930C14139053C12C71FC3BBCCAE90E0D4FCB" : 9223372036854775807,
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : 9223372036854775807,
+    "C89E24DF97B9DF9BE44B67204FD09D411E394D2C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1E293FD6-4204-43C3-8098-386241072637",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6B88930C14139053C12C71FC3BBCCAE90E0D4FCB" : "dz_programming\/",
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : "googletest\/",
+    "C89E24DF97B9DF9BE44B67204FD09D411E394D2C" : "..\/gtest-cmake-example"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "dz_string",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "dz_string\/dz_string.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Andriana008\/git.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B88930C14139053C12C71FC3BBCCAE90E0D4FCB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/google\/googletest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76A15575C5B740800EF8E92EA66B97A276AEF659"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dmonopoly\/gtest-cmake-example.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C89E24DF97B9DF9BE44B67204FD09D411E394D2C"
+    }
+  ]
+}

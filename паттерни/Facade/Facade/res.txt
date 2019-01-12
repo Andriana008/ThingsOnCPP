@@ -1,0 +1,105 @@
+completed orders : 
+2
+fdjrew2
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+awer
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+asew
+in package
+zymna
+1222s
+_________________
+completed orders : 
+2
+fdjrew2
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+awer
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+asew
+in package
+zymna
+1222s
+_________________
+completed orders : 
+2
+fdjrew2
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+awer
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+asew
+in package
+zymna
+1222s
+_________________
+completed orders : 
+2
+fdjrew2
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+awer
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+asew
+in package
+zymna
+1222s
+_________________
+completed orders : 
+2
+fdjrew2
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+awer
+in package
+zymna
+1222
+_________________
+completed orders : 
+1
+asew
+in package
+zymna
+1222s
+_________________

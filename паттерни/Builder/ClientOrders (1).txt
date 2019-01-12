@@ -1,0 +1,7 @@
+ham
+100
+luxury
+vegeterian
+33
+10
+200

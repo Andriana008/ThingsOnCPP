@@ -1,0 +1,6 @@
+ham
+100
+luxury
+fish
+12
+sea
